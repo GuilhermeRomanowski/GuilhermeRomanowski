@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Guilherme Romanowski
 
-🎯 **Analista de Dados em formação**, focado em transformar dados em informações úteis para a tomada de decisão.
+🎯 **Analista de Dados em formação**, focado em transformar dados em informações úteis para a tomada de decisões.
 
 Atualmente estou em constante aprendizado, desenvolvendo projetos práticos e consolidando fundamentos em **Python, SQL e Power BI**.
 
